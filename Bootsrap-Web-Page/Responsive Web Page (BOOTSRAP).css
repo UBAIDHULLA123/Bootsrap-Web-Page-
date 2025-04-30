@@ -1,0 +1,47 @@
+.navbar-collapse {
+    flex-grow: 0!important;
+}
+
+.bg-light {
+    background-color: black!important;
+}
+
+.navbar-light .navbar-brand {
+    color: white!important;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: white!important;
+}
+
+.nav-link {
+    color: white!important;
+}
+
+.row .bg-danger {
+    background-color: red!important;
+}
+
+.bx-4 {
+    flex: none!important;
+}
+
+.row-4 {
+    background-color: white!important;
+}
+
+.but {
+    background-color: blue;
+}
+
+.ro-5 {
+    background-color: white!important;
+}
+
+.ro-6 {
+    background-color: blue;
+}
+
+.co-1 {
+    background-color: white!important;
+}
